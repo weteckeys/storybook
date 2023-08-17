@@ -9,7 +9,8 @@ const config: StorybookConfig = {
     "@storybook/addon-storysource",
     "@storybook/addon-highlight",
     "@storybook/addon-a11y",
-    "@storybook/addon-styling"
+    "@storybook/addon-styling",
+    "@storybook/addon-google-analytics"
   ],
   framework: {
     name: "@storybook/angular",
